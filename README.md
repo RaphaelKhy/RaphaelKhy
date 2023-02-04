@@ -15,4 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- 📫 How to reach me: [LinkedIn]([https://linkedin.com/in/Raphael Khaykin](https://www.linkedin.com/in/raphael-khaykin-23465718a/)
+- 📫 How to reach me: [LinkedIn](https://linkedin.com/in/Raphael Khaykin](https://www.linkedin.com/in/raphael-khaykin-23465718a/)
